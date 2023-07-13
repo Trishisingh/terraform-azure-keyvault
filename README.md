@@ -1,4 +1,6 @@
 
+[![Terraform](https://github.com/Trishisingh/terraform-azure-datafactory/actions/workflows/terraform.yml/badge.svg)](https://github.com/Trishisingh/terraform-azure-keyvault/blob/main/.github/workflows/terraform.yml)
+
 ## Examples 
 ```
 data "azurerm_client_config" "current" {}
